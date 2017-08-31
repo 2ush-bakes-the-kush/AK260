@@ -1,4 +1,6 @@
 # AK260
 
 Achintya Welcome to:
-Click answer.jpg in the above list
+Click maxresdefault.jpg in the above list
+
+The others are your answers
